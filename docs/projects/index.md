@@ -18,19 +18,21 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
 
-**[Sample Project](sample-project.md)**
+![](../assets/images/SAR.png)
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+**[Large-Scale Forest Height Estimation Using UAVSAR PolInSAR Data](uavsar-polinsar-forest-height.md)**
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+PolInSAR-based forest canopy height retrieval over Pongara National Park, Gabon using NASA UAVSAR data and the Kapok Python library. Coursework project for *Synthetic Aperture Radar in Forest Application* at TUM.
 
-[View Project →](sample-project.md){ .md-button }
+`Python` `Kapok` `PolInSAR`
+
+[View Project →](uavsar-polinsar-forest-height.md){ .md-button }
+
 </div>
 
 <div class="project-card" markdown>
+
 ![](../assets/images/placeholder-notebook.png)
 
 **[Sample Notebook](sample-notebook.ipynb)**
@@ -41,6 +43,7 @@ and what you found or built.]
 `Python` `pandas` `Folium`
 
 [View Project →](sample-notebook.ipynb){ .md-button }
+
 </div>
 
 </div>
